@@ -1,0 +1,7 @@
+---
+applications:
+- name: musicalbum
+  memory: 1G
+  random-route: true
+  path: target/musicalbum-0.0.1-SNAPSHOT.jar
+
